@@ -33,7 +33,8 @@ All assignments are implemented in Python using Jupyter notebooks, with a focus 
 ## Repository Structure
 
 ```
-recsys-assignments/
+
+recommender-systems-assignments/
 ├── README.md
 ├── exercise-1-taxonomy/
 │   ├── Exercise_1_Taxonomy_RS.pdf
