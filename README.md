@@ -27,6 +27,7 @@ All assignments are implemented in Python using Jupyter notebooks, with a focus 
 2. **Content-Based Filtering**
 3. **User-User Collaborative Filtering**
 4. **Item-Item Collaborative Filtering**
+5. **Group Recommendations**
 
 ---
 
@@ -46,8 +47,14 @@ recommender-systems-assignments/
 │   ├── movies_rating.csv
 │   └── Exercise_3.ipynb
 └── exercise-4-item-item-cf/
-    ├── movies_rating.csv
-    └── Exercise_4.ipynb
+│   ├── movies_rating.csv
+│   └── Exercise_4.ipynb
+└── exercise-5-group-recommendations/
+    ├── GRS_dataset.xlsx
+    ├── Exercise5_GRS.ipynb
+    ├── Exercise5_GRS.pdf
+    └── Exercise5.pdf
+
 ```
 
 ---
